@@ -1,0 +1,14 @@
+{
+	"name": "@mwni/htproxy",
+	"version": "1.0.0",
+	"type": "module",
+	"bin": {
+		"htproxy": "./bin/htproxy.js"
+	},
+	"dependencies": {
+		"http-proxy": "^1.18.1"
+	},
+	"author": "mwni",
+	"license": "ISC",
+	"keywords": ["proxy", "http", "server"]
+}
